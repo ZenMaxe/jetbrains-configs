@@ -1,0 +1,6 @@
+<keymap version="1" name="IntelliJ (GNOME) copy" parent="Default for GNOME">
+  <action id="ActivateRunToolWindow">
+    <keyboard-shortcut first-keystroke="alt 4" />
+    <keyboard-shortcut first-keystroke="s" />
+  </action>
+</keymap>

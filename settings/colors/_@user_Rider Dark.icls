@@ -1,0 +1,43 @@
+<scheme name="_@user_Rider Dark" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.0" />
+  <metaInfo>
+    <property name="ide">Rider</property>
+    <property name="ideVersion">2024.1.4.0.0</property>
+    <property name="originalScheme">Rider Dark</property>
+    <property name="partialSave">true</property>
+    <property name="pluginId">Rider UI Theme Pack</property>
+  </metaInfo>
+  <option name="LINE_SPACING" value="1.2" />
+  <option name="EDITOR_FONT_SIZE" value="14" />
+  <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
+  <option name="EDITOR_LIGATURES" value="true" />
+  <colors>
+    <option name="FOLDED_TEXT_BORDER_COLOR" value="" />
+  </colors>
+  <attributes>
+    <option name="GENERIC_SERVER_ERROR_OR_WARNING">
+      <value>
+        <option name="EFFECT_COLOR" value="d9b72b" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="INFO_ATTRIBUTES">
+      <value>
+        <option name="EFFECT_COLOR" value="787878" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="SUGGESTION">
+      <value>
+        <option name="EFFECT_COLOR" value="85c46c" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="WARNING_ATTRIBUTES">
+      <value>
+        <option name="EFFECT_COLOR" value="f5d86a" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+  </attributes>
+</scheme>

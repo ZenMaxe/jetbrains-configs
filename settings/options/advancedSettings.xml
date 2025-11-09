@@ -1,0 +1,17 @@
+<application>
+  <component name="AdvancedSettings">
+    <option name="settings">
+      <map>
+        <entry key="bigger.font.in.project.view" value="true" />
+        <entry key="confirm.rerun.with.termination" value="false" />
+        <entry key="floating.codeToolbar.hide" value="true" />
+        <entry key="git.non.modal.commit" value="true" />
+        <entry key="ide.max.recent.projects" value="25" />
+        <entry key="ide.ui.native.file.chooser" value="true" />
+        <entry key="localHistory.daysToKeep" value="1" />
+        <entry key="repository.view.enabled" value="true" />
+        <entry key="terminal.escape.moves.focus.to.editor" value="false" />
+      </map>
+    </option>
+  </component>
+</application>

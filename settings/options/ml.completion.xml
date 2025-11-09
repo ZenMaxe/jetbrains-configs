@@ -1,0 +1,8 @@
+<application>
+  <component name="Inline Third Parties">
+    <thirdParties>
+      <entry id="com.github.copilot" is-enabled="false" />
+      <entry id="com.tabbyml.intellij-tabby" is-enabled="false" />
+    </thirdParties>
+  </component>
+</application>

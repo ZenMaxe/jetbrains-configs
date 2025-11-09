@@ -1,0 +1,28 @@
+com.herokuapp.vuesion
+lermitage.intellij.extratci
+com.intellij.resharper.HeapAllocationsViewer
+com.thvardhan.gradianto
+com.villains.intelij.plugin.trashpandatheme
+com.jetbrains.darkPurpleTheme
+com.hiberbee.intellij.hiberbee-theme
+com.tang
+monokai-pro
+com.vermouthx.idea
+com.github.catppuccin.jetbrains
+com.intellij.kubernetes
+dev.turingcomplete.intellijdevelopertoolsplugins
+com.markskelton.one-dark-theme
+com.tylerthrailkill.intellij.solarized
+com.anthropic.code.plugin
+com.elliotwaite.cyberpunk_theme
+com.arcticicestudio.nord.jetbrains
+Key Promoter X
+com.samdark.intellij-visual-studio-code-dark-plus
+Docker
+PlantUML integration
+com.github.ArtsiomCh.NestedBracketsColorer
+cn.yiiguxing.plugin.translate
+org.sonarlint.idea
+com.mallowigi
+me.rafaelldi.aspire
+com.intellij.microservices.ui

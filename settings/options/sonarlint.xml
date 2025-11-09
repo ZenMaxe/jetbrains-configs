@@ -1,0 +1,29 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="rulesByKey">
+      <map>
+        <entry key="csharpsquid:S107">
+          <value>
+            <Rule active="false" key="csharpsquid:S107" />
+          </value>
+        </entry>
+        <entry key="csharpsquid:S1144">
+          <value>
+            <Rule active="false" key="csharpsquid:S1144" />
+          </value>
+        </entry>
+        <entry key="csharpsquid:S3776">
+          <value>
+            <Rule active="false" key="csharpsquid:S3776" />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="secretsNeverBeenAnalysed" value="false" />
+    <rules>
+      <Rule active="false" key="csharpsquid:S107" />
+      <Rule active="false" key="csharpsquid:S3776" />
+      <Rule active="false" key="csharpsquid:S1144" />
+    </rules>
+  </component>
+</application>

@@ -1,0 +1,90 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="CommitMessageInspectionProfile">
+        <profile version="1.0">
+          <inspection_tool class="SubjectLimit" enabled="true" level="WARNING" enabled_by_default="true" />
+        </profile>
+      </component>
+      <component name="Encoding" addBOMForNewFiles="with BOM under Windows, with no BOM otherwise" />
+      <component name="Git.Settings">
+        <option name="PREVIEW_PUSH_ON_COMMIT_AND_PUSH" value="false" />
+        <option name="PUSH_AUTO_UPDATE" value="true" />
+      </component>
+      <component name="ProjectInspectionProfilesVisibleTreeState">
+        <entry key="Project Default">
+          <profile-state>
+            <expanded-state>
+              <State />
+            </expanded-state>
+            <selected-state>
+              <State>
+                <id>EditorConfig</id>
+              </State>
+            </selected-state>
+          </profile-state>
+        </entry>
+      </component>
+      <component name="ProjectViewState">
+        <option name="autoscrollToSource" value="true" />
+        <option name="hideEmptyMiddlePackages" value="true" />
+        <option name="openDirectoriesWithSingleClick" value="true" />
+        <option name="showLibraryContents" value="true" />
+      </component>
+      <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+      <component name="ShelveChangesManager">
+        <option name="remove_strategy" value="true" />
+      </component>
+      <component name="SvnConfiguration">
+        <configuration />
+      </component>
+      <component name="TaskManager">
+        <task active="true" id="Default" summary="Default task">
+          <created>1696760591573</created>
+          <option name="number" value="Default" />
+          <option name="presentableId" value="Default" />
+          <updated>1696760591573</updated>
+        </task>
+        <servers />
+      </component>
+      <component name="VcsManagerConfiguration">
+        <option name="CHECK_NEW_TODO" value="false" />
+        <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="true" />
+        <confirmRemoveEmptyChangelist value="2" />
+        <option name="SHOW_DIRTY_RECURSIVELY" value="true" />
+        <option name="MAXIMUM_HISTORY_ROWS" value="500" />
+        <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+      </component>
+      <component name="WindowStateProjectService">
+        <state x="741" y="324" key="FileChooserDialogImpl" timestamp="1755941998628">
+          <screen x="0" y="29" width="1920" height="1051" />
+        </state>
+        <state x="741" y="324" key="FileChooserDialogImpl/0.29.1920.1051" timestamp="1755941998628" />
+        <state x="503" y="228" width="900" height="688" key="Rider.NewProjectDialog.Size" timestamp="1756925643087">
+          <screen x="0" y="29" width="1920" height="1051" />
+        </state>
+        <state x="503" y="228" key="Rider.NewProjectDialog.Size/0.29.1920.1051" timestamp="1756925643087" />
+        <state x="221" y="187" width="900" height="688" key="Rider.NewProjectDialog.Size/0.32.1920.1048" timestamp="1754279560388" />
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="ScopeChooserConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.28963795" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>

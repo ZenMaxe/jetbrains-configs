@@ -1,0 +1,16 @@
+<application>
+  <component name="BlockTerminalUsage">
+    <option name="blockTerminalUsedLastTimeMillis" value="1746286325243" />
+    <option name="blockTerminalUsedLastVersion" value="251.23774.471" />
+    <option name="feedbackNotificationShown" value="true" />
+    <shellToExecutedCommandsNumber>
+      <entry key="powershell" value="99" />
+      <entry key="zsh" value="88" />
+    </shellToExecutedCommandsNumber>
+  </component>
+  <component name="ReworkedTerminalUsage">{}</component>
+  <component name="TerminalOptionsProvider">
+    <option name="terminalEngine" value="NEW_TERMINAL" />
+    <option name="useOptionAsMetaKey" value="true" />
+  </component>
+</application>
